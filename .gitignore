@@ -14,4 +14,7 @@ env/
 Thumbs.db
 
 data/raw/
-data/private/
+data/private/.idea/
+catboost_info/
+__pycache__/
+.DS_Store
